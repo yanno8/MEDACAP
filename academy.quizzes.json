@@ -1,0 +1,5298 @@
+[{
+  "_id": {
+    "$oid": "66351f70b87b00007900388f"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b00007900388e"
+    },
+    {
+      "$oid": "66351f70b87b000079003890"
+    },
+    {
+      "$oid": "66351f70b87b000079003891"
+    },
+    {
+      "$oid": "66351f70b87b000079003892"
+    },
+    {
+      "$oid": "66351f70b87b000079003893"
+    },
+    {
+      "$oid": "66351f70b87b000079003894"
+    }
+  ],
+  "label": "QCM Arbre de Transmission",
+  "type": "Factuel",
+  "speciality": "Arbre de Transmission",
+  "level": "Junior",
+  "total": 6,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b000079003896"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b000079003895"
+    },
+    {
+      "$oid": "66351f70b87b000079003897"
+    },
+    {
+      "$oid": "66351f70b87b000079003898"
+    },
+    {
+      "$oid": "66351f70b87b000079003899"
+    },
+    {
+      "$oid": "66351f70b87b00007900389a"
+    },
+    {
+      "$oid": "66351f70b87b00007900389b"
+    },
+    {
+      "$oid": "66351f70b87b00007900389c"
+    },
+    {
+      "$oid": "66351f70b87b00007900389d"
+    }
+  ],
+  "label": "QCM Assistance à la Conduite",
+  "type": "Factuel",
+  "speciality": "Assistance à la Conduite",
+  "level": "Junior",
+  "total": 8,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b00007900389f"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b00007900389e"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a0"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a1"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a2"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a3"
+    }
+  ],
+  "label": "QCM Boite de Transfert",
+  "type": "Factuel",
+  "speciality": "Boite de Transfert",
+  "level": "Junior",
+  "total": 5,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b0000790038a5"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b0000790038a4"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a6"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a7"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a8"
+    },
+    {
+      "$oid": "66351f70b87b0000790038a9"
+    },
+    {
+      "$oid": "66351f70b87b0000790038aa"
+    },
+    {
+      "$oid": "66351f70b87b0000790038ab"
+    },
+    {
+      "$oid": "66351f70b87b0000790038ad"
+    }
+  ],
+  "label": "QCM Boite de Vitesse",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse",
+  "level": "Junior",
+  "total": 8,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b0000790038af"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b0000790038ae"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b0"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b1"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b2"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b3"
+    }
+  ],
+  "label": "QCM Boite de Vitesse à Variation Continue",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse à Variation Continue",
+  "level": "Junior",
+  "total": 5,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b0000790038b5"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b0000790038b4"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b6"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b7"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b8"
+    },
+    {
+      "$oid": "66351f70b87b0000790038b9"
+    },
+    {
+      "$oid": "66351f70b87b0000790038ba"
+    },
+    {
+      "$oid": "66351f70b87b0000790038bb"
+    }
+  ],
+  "label": "QCM Boite de Vitesse Automatique",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse Automatique",
+  "level": "Junior",
+  "total": 7,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b0000790038bd"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b0000790038bc"
+    },
+    {
+      "$oid": "66351f70b87b0000790038be"
+    },
+    {
+      "$oid": "66351f70b87b0000790038bf"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c0"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c1"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c2"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c3"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c4"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c5"
+    }
+  ],
+  "label": "QCM Boite de Vitesse Mécanique",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse Mécanique",
+  "level": "Junior",
+  "total": 9,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b0000790038c7"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b0000790038c6"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c8"
+    },
+    {
+      "$oid": "66351f70b87b0000790038c9"
+    },
+    {
+      "$oid": "66351f70b87b0000790038ca"
+    },
+    {
+      "$oid": "66351f70b87b0000790038cb"
+    },
+    {
+      "$oid": "66351f70b87b0000790038cc"
+    },
+    {
+      "$oid": "66351f70b87b0000790038cd"
+    },
+    {
+      "$oid": "66351f70b87b0000790038ce"
+    },
+    {
+      "$oid": "66351f70b87b0000790038cf"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d0"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d1"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d2"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d3"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d4"
+    }
+  ],
+  "label": "QCM Climatisation",
+  "type": "Factuel",
+  "speciality": "Climatisation",
+  "level": "Junior",
+  "total": 14,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f70b87b0000790038d6"
+  },
+  "questions": [
+    {
+      "$oid": "66351f70b87b0000790038d5"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d7"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d8"
+    },
+    {
+      "$oid": "66351f70b87b0000790038d9"
+    },
+    {
+      "$oid": "66351f70b87b0000790038da"
+    },
+    {
+      "$oid": "66351f71b87b0000790038db"
+    }
+  ],
+  "label": "QCM Demi Arbre de Roue",
+  "type": "Factuel",
+  "speciality": "Demi Arbre de Roue",
+  "level": "Junior",
+  "total": 6,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f71b87b0000790038dd"
+  },
+  "questions": [
+    {
+      "$oid": "66351f71b87b0000790038de"
+    },
+    {
+      "$oid": "66351f71b87b0000790038df"
+    },
+    {
+      "$oid": "66351f71b87b0000790038e0"
+    },
+    {
+      "$oid": "66351f71b87b0000790038e1"
+    },
+    {
+      "$oid": "66351f71b87b0000790038e3"
+    },
+    {
+      "$oid": "66351f71b87b0000790038e5"
+    },
+    {
+      "$oid": "66351f71b87b0000790038e6"
+    },
+    {
+      "$oid": "66351f71b87b0000790038e7"
+    },
+    {
+      "$oid": "66351f71b87b0000790038e8"
+    },
+    {
+      "$oid": "66351f71b87b0000790038ea"
+    },
+    {
+      "$oid": "66351f71b87b0000790038ee"
+    },
+    {
+      "$oid": "66351f71b87b0000790038ef"
+    },
+    {
+      "$oid": "66351f71b87b0000790038f1"
+    }
+  ],
+  "label": "QCM Direction",
+  "type": "Factuel",
+  "speciality": "Direction",
+  "level": "Junior",
+  "total": 13,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f71b87b0000790038f3"
+  },
+  "questions": [
+    {
+      "$oid": "66351f71b87b0000790038f2"
+    },
+    {
+      "$oid": "66351f71b87b0000790038f4"
+    },
+    {
+      "$oid": "66351f71b87b0000790038f5"
+    },
+    {
+      "$oid": "66351f71b87b0000790038f6"
+    },
+    {
+      "$oid": "66351f71b87b0000790038f7"
+    },
+    {
+      "$oid": "66351f71b87b0000790038f8"
+    },
+    {
+      "$oid": "66351f71b87b0000790038f9"
+    },
+    {
+      "$oid": "66351f71b87b0000790038fa"
+    },
+    {
+      "$oid": "66351f71b87b0000790038fb"
+    },
+    {
+      "$oid": "66351f71b87b0000790038fc"
+    },
+    {
+      "$oid": "66351f71b87b0000790038fe"
+    },
+    {
+      "$oid": "66351f71b87b0000790038ff"
+    },
+    {
+      "$oid": "66351f71b87b000079003901"
+    },
+    {
+      "$oid": "66351f71b87b000079003902"
+    },
+    {
+      "$oid": "66351f71b87b000079003903"
+    },
+    {
+      "$oid": "66351f71b87b000079003904"
+    },
+    {
+      "$oid": "66351f71b87b000079003905"
+    },
+    {
+      "$oid": "66351f71b87b000079003906"
+    },
+    {
+      "$oid": "66351f71b87b000079003907"
+    },
+    {
+      "$oid": "66351f71b87b000079003908"
+    },
+    {
+      "$oid": "66351f71b87b000079003909"
+    },
+    {
+      "$oid": "66351f71b87b00007900390a"
+    },
+    {
+      "$oid": "66351f71b87b00007900390b"
+    },
+    {
+      "$oid": "66351f71b87b00007900390c"
+    },
+    {
+      "$oid": "66351f71b87b00007900390d"
+    },
+    {
+      "$oid": "66351f71b87b00007900390e"
+    },
+    {
+      "$oid": "66351f71b87b00007900390f"
+    },
+    {
+      "$oid": "66351f71b87b000079003910"
+    }
+  ],
+  "label": "QCM Electricité et Electronique",
+  "type": "Factuel",
+  "speciality": "Electricité et Electronique",
+  "level": "Junior",
+  "total": 28,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f71b87b000079003912"
+  },
+  "questions": [
+    {
+      "$oid": "66351f71b87b000079003911"
+    },
+    {
+      "$oid": "66351f71b87b000079003913"
+    },
+    {
+      "$oid": "66351f71b87b000079003914"
+    },
+    {
+      "$oid": "66351f71b87b000079003915"
+    },
+    {
+      "$oid": "66351f71b87b000079003916"
+    },
+    {
+      "$oid": "66351f71b87b000079003917"
+    },
+    {
+      "$oid": "66351f71b87b000079003918"
+    }
+  ],
+  "label": "QCM Freinage",
+  "type": "Factuel",
+  "speciality": "Freinage",
+  "level": "Junior",
+  "total": 7,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f71b87b00007900391a"
+  },
+  "questions": [
+    {
+      "$oid": "66351f71b87b000079003919"
+    },
+    {
+      "$oid": "66351f71b87b00007900391b"
+    },
+    {
+      "$oid": "66351f71b87b00007900391c"
+    },
+    {
+      "$oid": "66351f71b87b00007900391d"
+    },
+    {
+      "$oid": "66351f71b87b00007900391e"
+    },
+    {
+      "$oid": "66351f71b87b00007900391f"
+    },
+    {
+      "$oid": "66351f71b87b000079003920"
+    }
+  ],
+  "label": "QCM Freinage Electromagnétique",
+  "type": "Factuel",
+  "speciality": "Freinage Electromagnétique",
+  "level": "Junior",
+  "total": 7,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f71b87b000079003922"
+  },
+  "questions": [
+    {
+      "$oid": "66351f71b87b000079003921"
+    },
+    {
+      "$oid": "66351f71b87b000079003923"
+    },
+    {
+      "$oid": "66351f71b87b000079003924"
+    },
+    {
+      "$oid": "66351f71b87b000079003925"
+    },
+    {
+      "$oid": "66351f71b87b000079003926"
+    },
+    {
+      "$oid": "66351f71b87b000079003927"
+    },
+    {
+      "$oid": "66351f71b87b000079003928"
+    },
+    {
+      "$oid": "66351f71b87b000079003929"
+    },
+    {
+      "$oid": "66351f71b87b00007900392a"
+    },
+    {
+      "$oid": "66351f71b87b00007900392b"
+    },
+    {
+      "$oid": "66351f71b87b00007900392c"
+    },
+    {
+      "$oid": "66351f71b87b00007900392d"
+    },
+    {
+      "$oid": "66351f71b87b00007900392e"
+    },
+    {
+      "$oid": "66351f71b87b00007900392f"
+    },
+    {
+      "$oid": "66351f71b87b000079003930"
+    },
+    {
+      "$oid": "66351f71b87b000079003931"
+    },
+    {
+      "$oid": "66351f71b87b000079003932"
+    },
+    {
+      "$oid": "66351f71b87b000079003933"
+    },
+    {
+      "$oid": "66351f71b87b000079003934"
+    },
+    {
+      "$oid": "66351f71b87b000079003935"
+    }
+  ],
+  "label": "QCM Freinage Hydraulique",
+  "type": "Factuel",
+  "speciality": "Freinage Hydraulique",
+  "level": "Junior",
+  "total": 20,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f71b87b000079003937"
+  },
+  "questions": [
+    {
+      "$oid": "66351f71b87b000079003936"
+    },
+    {
+      "$oid": "66351f71b87b000079003938"
+    },
+    {
+      "$oid": "66351f71b87b000079003939"
+    },
+    {
+      "$oid": "66351f71b87b00007900393a"
+    },
+    {
+      "$oid": "66351f71b87b00007900393b"
+    },
+    {
+      "$oid": "66351f71b87b00007900393c"
+    },
+    {
+      "$oid": "66351f71b87b00007900393d"
+    },
+    {
+      "$oid": "66351f71b87b00007900393e"
+    },
+    {
+      "$oid": "66351f71b87b00007900393f"
+    },
+    {
+      "$oid": "66351f71b87b000079003940"
+    },
+    {
+      "$oid": "66351f71b87b000079003941"
+    },
+    {
+      "$oid": "66351f72b87b000079003942"
+    },
+    {
+      "$oid": "66351f72b87b000079003943"
+    },
+    {
+      "$oid": "66351f72b87b000079003944"
+    },
+    {
+      "$oid": "66351f72b87b000079003945"
+    },
+    {
+      "$oid": "66351f72b87b000079003946"
+    },
+    {
+      "$oid": "66351f72b87b000079003947"
+    },
+    {
+      "$oid": "66351f72b87b000079003948"
+    },
+    {
+      "$oid": "66351f72b87b000079003949"
+    },
+    {
+      "$oid": "66351f72b87b00007900394a"
+    }
+  ],
+  "label": "QCM Freinage Pneumatique",
+  "type": "Factuel",
+  "speciality": "Freinage Pneumatique",
+  "level": "Junior",
+  "total": 20,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f72b87b00007900394c"
+  },
+  "questions": [
+    {
+      "$oid": "66351f72b87b00007900394b"
+    },
+    {
+      "$oid": "66351f72b87b00007900394d"
+    },
+    {
+      "$oid": "66351f72b87b00007900394e"
+    },
+    {
+      "$oid": "66351f72b87b00007900394f"
+    },
+    {
+      "$oid": "66351f72b87b000079003950"
+    },
+    {
+      "$oid": "66351f72b87b000079003951"
+    },
+    {
+      "$oid": "66351f72b87b000079003952"
+    },
+    {
+      "$oid": "66351f72b87b000079003953"
+    },
+    {
+      "$oid": "66351f72b87b000079003954"
+    },
+    {
+      "$oid": "66351f72b87b000079003955"
+    },
+    {
+      "$oid": "66351f72b87b000079003956"
+    },
+    {
+      "$oid": "66351f72b87b000079003957"
+    },
+    {
+      "$oid": "66351f72b87b000079003958"
+    },
+    {
+      "$oid": "66351f72b87b000079003959"
+    },
+    {
+      "$oid": "66351f72b87b00007900395a"
+    },
+    {
+      "$oid": "66351f72b87b00007900395b"
+    },
+    {
+      "$oid": "66351f72b87b00007900395c"
+    },
+    {
+      "$oid": "66351f72b87b00007900395d"
+    },
+    {
+      "$oid": "66351f72b87b00007900395e"
+    },
+    {
+      "$oid": "66351f72b87b00007900395f"
+    },
+    {
+      "$oid": "66351f72b87b000079003960"
+    },
+    {
+      "$oid": "66351f72b87b000079003961"
+    },
+    {
+      "$oid": "66351f72b87b000079003962"
+    },
+    {
+      "$oid": "66351f72b87b000079003963"
+    },
+    {
+      "$oid": "66351f72b87b000079003964"
+    },
+    {
+      "$oid": "66351f72b87b000079003965"
+    },
+    {
+      "$oid": "66351f72b87b000079003966"
+    },
+    {
+      "$oid": "66351f72b87b000079003967"
+    },
+    {
+      "$oid": "66351f72b87b000079003968"
+    },
+    {
+      "$oid": "66351f72b87b000079003969"
+    },
+    {
+      "$oid": "66351f72b87b00007900396a"
+    },
+    {
+      "$oid": "66351f72b87b00007900396b"
+    },
+    {
+      "$oid": "66351f72b87b00007900396c"
+    },
+    {
+      "$oid": "66351f72b87b00007900396d"
+    }
+  ],
+  "label": "QCM Hydraulique",
+  "type": "Factuel",
+  "speciality": "Hydraulique",
+  "level": "Junior",
+  "total": 34,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f72b87b00007900396f"
+  },
+  "questions": [
+    {
+      "$oid": "66351f72b87b00007900396e"
+    },
+    {
+      "$oid": "66351f72b87b000079003970"
+    },
+    {
+      "$oid": "66351f72b87b000079003971"
+    },
+    {
+      "$oid": "66351f72b87b000079003972"
+    },
+    {
+      "$oid": "66351f72b87b000079003973"
+    },
+    {
+      "$oid": "66351f72b87b000079003974"
+    },
+    {
+      "$oid": "66351f72b87b000079003975"
+    },
+    {
+      "$oid": "66351f72b87b000079003976"
+    },
+    {
+      "$oid": "66351f72b87b000079003977"
+    },
+    {
+      "$oid": "66351f72b87b000079003978"
+    },
+    {
+      "$oid": "66351f72b87b000079003979"
+    }
+  ],
+  "label": "QCM Moteur Diesel",
+  "type": "Factuel",
+  "speciality": "Moteur Diesel",
+  "level": "Junior",
+  "total": 11,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f72b87b00007900397b"
+  },
+  "questions": [
+    {
+      "$oid": "66351f72b87b00007900397a"
+    },
+    {
+      "$oid": "66351f72b87b00007900397c"
+    },
+    {
+      "$oid": "66351f72b87b00007900397d"
+    },
+    {
+      "$oid": "66351f72b87b00007900397e"
+    },
+    {
+      "$oid": "66351f72b87b00007900397f"
+    }
+  ],
+  "label": "QCM Moteur Electrique",
+  "type": "Factuel",
+  "speciality": "Moteur Electrique",
+  "level": "Junior",
+  "total": 5,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f72b87b000079003981"
+  },
+  "questions": [
+    {
+      "$oid": "66351f72b87b000079003980"
+    },
+    {
+      "$oid": "66351f72b87b000079003983"
+    },
+    {
+      "$oid": "66351f72b87b000079003984"
+    },
+    {
+      "$oid": "66351f72b87b000079003985"
+    },
+    {
+      "$oid": "66351f72b87b000079003986"
+    },
+    {
+      "$oid": "66351f72b87b000079003987"
+    },
+    {
+      "$oid": "66351f72b87b000079003988"
+    },
+    {
+      "$oid": "66351f72b87b000079003989"
+    },
+    {
+      "$oid": "66351f72b87b00007900398a"
+    },
+    {
+      "$oid": "66351f72b87b00007900398b"
+    },
+    {
+      "$oid": "66351f72b87b00007900398c"
+    },
+    {
+      "$oid": "66351f72b87b00007900398d"
+    },
+    {
+      "$oid": "66351f72b87b00007900398e"
+    },
+    {
+      "$oid": "66351f72b87b000079003982"
+    }
+  ],
+  "label": "QCM Moteur Essence",
+  "type": "Factuel",
+  "speciality": "Moteur Essence",
+  "level": "Junior",
+  "total": 14,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f72b87b000079003990"
+  },
+  "questions": [
+    {
+      "$oid": "66351f72b87b00007900398f"
+    },
+    {
+      "$oid": "66351f72b87b000079003991"
+    },
+    {
+      "$oid": "66351f72b87b000079003992"
+    },
+    {
+      "$oid": "66351f72b87b000079003993"
+    },
+    {
+      "$oid": "66351f72b87b000079003994"
+    },
+    {
+      "$oid": "66351f72b87b000079003995"
+    },
+    {
+      "$oid": "66351f72b87b000079003996"
+    },
+    {
+      "$oid": "66351f72b87b000079003997"
+    },
+    {
+      "$oid": "66351f72b87b000079003998"
+    },
+    {
+      "$oid": "66351f72b87b000079003999"
+    },
+    {
+      "$oid": "66351f72b87b00007900399a"
+    },
+    {
+      "$oid": "66351f72b87b00007900399b"
+    },
+    {
+      "$oid": "66351f72b87b00007900399c"
+    },
+    {
+      "$oid": "66351f72b87b00007900399d"
+    },
+    {
+      "$oid": "66351f72b87b00007900399e"
+    },
+    {
+      "$oid": "66351f72b87b00007900399f"
+    },
+    {
+      "$oid": "66351f72b87b0000790039a0"
+    },
+    {
+      "$oid": "66351f72b87b0000790039a1"
+    },
+    {
+      "$oid": "66351f72b87b0000790039a2"
+    },
+    {
+      "$oid": "66351f72b87b0000790039a3"
+    },
+    {
+      "$oid": "66351f72b87b0000790039a4"
+    },
+    {
+      "$oid": "66351f72b87b0000790039a5"
+    },
+    {
+      "$oid": "66351f72b87b0000790039a6"
+    },
+    {
+      "$oid": "66351f73b87b0000790039a7"
+    },
+    {
+      "$oid": "66351f73b87b0000790039a8"
+    },
+    {
+      "$oid": "66351f73b87b0000790039a9"
+    },
+    {
+      "$oid": "66351f73b87b0000790039aa"
+    },
+    {
+      "$oid": "66351f73b87b0000790039ab"
+    },
+    {
+      "$oid": "66351f73b87b0000790039ac"
+    },
+    {
+      "$oid": "66351f73b87b0000790039ad"
+    },
+    {
+      "$oid": "66351f73b87b0000790039ae"
+    },
+    {
+      "$oid": "66351f73b87b0000790039af"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b0"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b1"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b2"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b3"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b4"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b6"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b7"
+    },
+    {
+      "$oid": "66351f73b87b0000790039b9"
+    }
+  ],
+  "label": "QCM Moteur Thermique",
+  "type": "Factuel",
+  "speciality": "Moteur Thermique",
+  "level": "Junior",
+  "total": 40,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f73b87b0000790039bc"
+  },
+  "questions": [
+    {
+      "$oid": "66351f73b87b0000790039bb"
+    },
+    {
+      "$oid": "66351f73b87b0000790039bd"
+    },
+    {
+      "$oid": "66351f73b87b0000790039be"
+    },
+    {
+      "$oid": "66351f73b87b0000790039bf"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c0"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c1"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c2"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c3"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c4"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c5"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c6"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c7"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c8"
+    },
+    {
+      "$oid": "66351f73b87b0000790039c9"
+    },
+    {
+      "$oid": "66351f73b87b0000790039ca"
+    }
+  ],
+  "label": "QCM Pneumatique",
+  "type": "Factuel",
+  "speciality": "Pneumatique",
+  "level": "Junior",
+  "total": 15,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f73b87b0000790039cc"
+  },
+  "questions": [
+    {
+      "$oid": "66351f73b87b0000790039cb"
+    },
+    {
+      "$oid": "66351f73b87b0000790039e1"
+    },
+    {
+      "$oid": "66351f73b87b0000790039e2"
+    },
+    {
+      "$oid": "66351f73b87b0000790039e3"
+    },
+    {
+      "$oid": "66351f73b87b0000790039e4"
+    },
+    {
+      "$oid": "66351f73b87b0000790039e5"
+    },
+    {
+      "$oid": "66351f74b87b0000790039e6"
+    }
+  ],
+  "label": "QCM Pont",
+  "type": "Factuel",
+  "speciality": "Pont",
+  "level": "Junior",
+  "total": 7,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f74b87b0000790039e8"
+  },
+  "questions": [
+    {
+      "$oid": "66351f74b87b0000790039e7"
+    },
+    {
+      "$oid": "66351f74b87b0000790039e9"
+    },
+    {
+      "$oid": "66351f74b87b0000790039ea"
+    },
+    {
+      "$oid": "66351f74b87b0000790039eb"
+    },
+    {
+      "$oid": "66351f74b87b0000790039ec"
+    },
+    {
+      "$oid": "66351f74b87b0000790039ed"
+    }
+  ],
+  "label": "QCM Reducteur",
+  "type": "Factuel",
+  "speciality": "Reducteur",
+  "level": "Junior",
+  "total": 6,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f74b87b0000790039ef"
+  },
+  "questions": [
+    {
+      "$oid": "66351f74b87b0000790039ee"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f0"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f1"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f2"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f3"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f4"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f5"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f6"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f7"
+    },
+    {
+      "$oid": "66351f74b87b0000790039f8"
+    }
+  ],
+  "label": "QCM Suspension",
+  "type": "Factuel",
+  "speciality": "Suspension",
+  "level": "Junior",
+  "total": 10,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f74b87b0000790039fa"
+  },
+  "questions": [
+    {
+      "$oid": "66351f74b87b0000790039f9"
+    },
+    {
+      "$oid": "66351f74b87b0000790039fb"
+    },
+    {
+      "$oid": "66351f74b87b0000790039fc"
+    },
+    {
+      "$oid": "66351f74b87b0000790039fd"
+    },
+    {
+      "$oid": "66351f74b87b0000790039fe"
+    }
+  ],
+  "label": "QCM Suspension à Lame",
+  "type": "Factuel",
+  "speciality": "Suspension à Lame",
+  "level": "Junior",
+  "total": 5,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f74b87b000079003a00"
+  },
+  "questions": [
+    {
+      "$oid": "66351f74b87b0000790039ff"
+    },
+    {
+      "$oid": "66351f74b87b000079003a01"
+    },
+    {
+      "$oid": "66351f74b87b000079003a02"
+    },
+    {
+      "$oid": "66351f74b87b000079003a03"
+    },
+    {
+      "$oid": "66351f74b87b000079003a04"
+    },
+    {
+      "$oid": "66351f74b87b000079003a05"
+    },
+    {
+      "$oid": "66351f74b87b000079003a06"
+    }
+  ],
+  "label": "QCM Suspension Ressort",
+  "type": "Factuel",
+  "speciality": "Suspension Ressort",
+  "level": "Junior",
+  "total": 7,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f74b87b000079003a08"
+  },
+  "questions": [
+    {
+      "$oid": "66351f74b87b000079003a07"
+    },
+    {
+      "$oid": "66351f74b87b000079003a09"
+    },
+    {
+      "$oid": "66351f74b87b000079003a0a"
+    },
+    {
+      "$oid": "66351f74b87b000079003a0b"
+    },
+    {
+      "$oid": "66351f74b87b000079003a0c"
+    }
+  ],
+  "label": "QCM Suspension Pneumatique",
+  "type": "Factuel",
+  "speciality": "Suspension Pneumatique",
+  "level": "Junior",
+  "total": 5,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66351f74b87b000079003a0e"
+  },
+  "questions": [
+    {
+      "$oid": "66351f74b87b000079003a0d"
+    },
+    {
+      "$oid": "66351f74b87b000079003a0f"
+    },
+    {
+      "$oid": "66351f74b87b000079003a10"
+    },
+    {
+      "$oid": "66351f74b87b000079003a11"
+    },
+    {
+      "$oid": "66351f74b87b000079003a12"
+    },
+    {
+      "$oid": "66351f74b87b000079003a13"
+    },
+    {
+      "$oid": "66351f74b87b000079003a14"
+    },
+    {
+      "$oid": "66351f74b87b000079003a15"
+    },
+    {
+      "$oid": "66351f74b87b000079003a16"
+    },
+    {
+      "$oid": "66351f74b87b000079003a17"
+    },
+    {
+      "$oid": "66351f74b87b000079003a18"
+    },
+    {
+      "$oid": "66351f74b87b000079003a19"
+    },
+    {
+      "$oid": "66351f74b87b000079003a1a"
+    },
+    {
+      "$oid": "66351f74b87b000079003a1b"
+    },
+    {
+      "$oid": "66351f74b87b000079003a1c"
+    },
+    {
+      "$oid": "66351f74b87b000079003a1d"
+    },
+    {
+      "$oid": "66351f74b87b000079003a1e"
+    },
+    {
+      "$oid": "66351f74b87b000079003a1f"
+    },
+    {
+      "$oid": "66351f74b87b000079003a20"
+    },
+    {
+      "$oid": "66351f74b87b000079003a21"
+    },
+    {
+      "$oid": "66351f74b87b000079003a22"
+    },
+    {
+      "$oid": "66351f74b87b000079003a23"
+    },
+    {
+      "$oid": "66351f74b87b000079003a24"
+    },
+    {
+      "$oid": "66351f74b87b000079003a25"
+    },
+    {
+      "$oid": "66351f74b87b000079003a26"
+    },
+    {
+      "$oid": "66351f74b87b000079003a27"
+    },
+    {
+      "$oid": "66351f74b87b000079003a28"
+    },
+    {
+      "$oid": "66351f74b87b000079003a29"
+    },
+    {
+      "$oid": "66351f74b87b000079003a2a"
+    },
+    {
+      "$oid": "66351f74b87b000079003a2b"
+    },
+    {
+      "$oid": "66351f74b87b000079003a2c"
+    },
+    {
+      "$oid": "66351f74b87b000079003a2d"
+    },
+    {
+      "$oid": "66351f74b87b000079003a2e"
+    },
+    {
+      "$oid": "66351f74b87b000079003a2f"
+    },
+    {
+      "$oid": "66351f74b87b000079003a30"
+    },
+    {
+      "$oid": "66351f74b87b000079003a31"
+    },
+    {
+      "$oid": "66351f74b87b000079003a32"
+    },
+    {
+      "$oid": "66351f74b87b000079003a33"
+    },
+    {
+      "$oid": "66351f74b87b000079003a34"
+    },
+    {
+      "$oid": "66351f74b87b000079003a35"
+    },
+    {
+      "$oid": "66351f74b87b000079003a36"
+    }
+  ],
+  "label": "QCM Transversale",
+  "type": "Factuel",
+  "speciality": "Transversale",
+  "level": "Junior",
+  "total": 41,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a38"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a37"
+    }
+  ],
+  "label": "Tâche Arbre de Transmission",
+  "type": "Declaratif",
+  "speciality": "Arbre de Transmission",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a3a"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a39"
+    }
+  ],
+  "label": "Tâche Assistance à la Conduite",
+  "type": "Declaratif",
+  "speciality": "Assistance à la Conduite",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a3c"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a3b"
+    },
+    {
+      "$oid": "66352065b87b000079003a3d"
+    }
+  ],
+  "label": "Tâche Boite de Transfert",
+  "type": "Declaratif",
+  "speciality": "Boite de Transfert",
+  "level": "Junior",
+  "total": 2,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a3f"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a3e"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a41"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a40"
+    },
+    {
+      "$oid": "66352065b87b000079003a42"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse à Variation Continue",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse à Variation Continue",
+  "level": "Junior",
+  "total": 2,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a44"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a43"
+    },
+    {
+      "$oid": "66352065b87b000079003a45"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse Automatique",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse Automatique",
+  "level": "Junior",
+  "total": 2,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a47"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a46"
+    },
+    {
+      "$oid": "66352065b87b000079003a48"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse Mécanique",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse Mécanique",
+  "level": "Junior",
+  "total": 2,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a4a"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a49"
+    },
+    {
+      "$oid": "66352065b87b000079003a4b"
+    },
+    {
+      "$oid": "66352065b87b000079003a4c"
+    }
+  ],
+  "label": "Tâche Climatisation",
+  "type": "Declaratif",
+  "speciality": "Climatisation",
+  "level": "Junior",
+  "total": 3,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a4e"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a4d"
+    }
+  ],
+  "label": "Tâche Demi Arbre de Roue",
+  "type": "Declaratif",
+  "speciality": "Demi Arbre de Roue",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a50"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a4f"
+    },
+    {
+      "$oid": "66352065b87b000079003a51"
+    },
+    {
+      "$oid": "66352065b87b000079003a52"
+    },
+    {
+      "$oid": "66352065b87b000079003a53"
+    },
+    {
+      "$oid": "66352065b87b000079003a54"
+    }
+  ],
+  "label": "Tâche Direction",
+  "type": "Declaratif",
+  "speciality": "Direction",
+  "level": "Junior",
+  "total": 5,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a56"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a55"
+    },
+    {
+      "$oid": "66352065b87b000079003a57"
+    },
+    {
+      "$oid": "66352065b87b000079003a58"
+    },
+    {
+      "$oid": "66352065b87b000079003a59"
+    },
+    {
+      "$oid": "66352065b87b000079003a5a"
+    },
+    {
+      "$oid": "66352065b87b000079003a5b"
+    },
+    {
+      "$oid": "66352065b87b000079003a5c"
+    },
+    {
+      "$oid": "66352065b87b000079003a5d"
+    },
+    {
+      "$oid": "66352065b87b000079003a5e"
+    },
+    {
+      "$oid": "66352065b87b000079003a5f"
+    },
+    {
+      "$oid": "66352065b87b000079003a60"
+    },
+    {
+      "$oid": "66352065b87b000079003a61"
+    },
+    {
+      "$oid": "66352065b87b000079003a62"
+    }
+  ],
+  "label": "Tâche Electricité et Electronique",
+  "type": "Declaratif",
+  "speciality": "Electricité et Electronique",
+  "level": "Junior",
+  "total": 13,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a64"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a63"
+    },
+    {
+      "$oid": "66352065b87b000079003a65"
+    },
+    {
+      "$oid": "66352065b87b000079003a66"
+    },
+    {
+      "$oid": "66352065b87b000079003a67"
+    },
+    {
+      "$oid": "66352065b87b000079003a68"
+    },
+    {
+      "$oid": "66352065b87b000079003a69"
+    },
+    {
+      "$oid": "66352065b87b000079003a6a"
+    },
+    {
+      "$oid": "66352065b87b000079003a6b"
+    },
+    {
+      "$oid": "66352065b87b000079003a6c"
+    },
+    {
+      "$oid": "66352065b87b000079003a6d"
+    },
+    {
+      "$oid": "66352065b87b000079003a6e"
+    },
+    {
+      "$oid": "66352065b87b000079003a6f"
+    },
+    {
+      "$oid": "66352065b87b000079003a70"
+    }
+  ],
+  "label": "Tâche Freinage",
+  "type": "Declaratif",
+  "speciality": "Freinage",
+  "level": "Junior",
+  "total": 13,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a72"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a71"
+    },
+    {
+      "$oid": "66352065b87b000079003a73"
+    },
+    {
+      "$oid": "66352065b87b000079003a74"
+    }
+  ],
+  "label": "Tâche Freinage Electromagnétique",
+  "type": "Declaratif",
+  "speciality": "Freinage Electromagnétique",
+  "level": "Junior",
+  "total": 3,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a76"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a75"
+    },
+    {
+      "$oid": "66352065b87b000079003a77"
+    }
+  ],
+  "label": "Tâche Freinage Hydraulique",
+  "type": "Declaratif",
+  "speciality": "Freinage Hydraulique",
+  "level": "Junior",
+  "total": 2,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a79"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a78"
+    }
+  ],
+  "label": "Tâche Freinage Pneumatique",
+  "type": "Declaratif",
+  "speciality": "Freinage Pneumatique",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352065b87b000079003a7b"
+  },
+  "questions": [
+    {
+      "$oid": "66352065b87b000079003a7a"
+    },
+    {
+      "$oid": "66352065b87b000079003a7c"
+    },
+    {
+      "$oid": "66352065b87b000079003a7d"
+    },
+    {
+      "$oid": "66352065b87b000079003a7e"
+    }
+  ],
+  "label": "Tâche Hydraulique",
+  "type": "Declaratif",
+  "speciality": "Hydraulique",
+  "level": "Junior",
+  "total": 4,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003a80"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003a7f"
+    },
+    {
+      "$oid": "66352066b87b000079003a81"
+    }
+  ],
+  "label": "Tâche Moteur Diesel",
+  "type": "Declaratif",
+  "speciality": "Moteur Diesel",
+  "level": "Junior",
+  "total": 2,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003a83"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003a82"
+    }
+  ],
+  "label": "Tâche Moteur Electrique",
+  "type": "Declaratif",
+  "speciality": "Moteur Electrique",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003a85"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003a84"
+    },
+    {
+      "$oid": "66352066b87b000079003a86"
+    },
+    {
+      "$oid": "66352066b87b000079003a87"
+    },
+    {
+      "$oid": "66352066b87b000079003a88"
+    }
+  ],
+  "label": "Tâche Moteur Essence",
+  "type": "Declaratif",
+  "speciality": "Moteur Essence",
+  "level": "Junior",
+  "total": 4,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003a8a"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003a89"
+    },
+    {
+      "$oid": "66352066b87b000079003a8b"
+    },
+    {
+      "$oid": "66352066b87b000079003a8c"
+    },
+    {
+      "$oid": "66352066b87b000079003a8d"
+    },
+    {
+      "$oid": "66352066b87b000079003a8e"
+    },
+    {
+      "$oid": "66352066b87b000079003a8f"
+    },
+    {
+      "$oid": "66352066b87b000079003a90"
+    },
+    {
+      "$oid": "66352066b87b000079003a91"
+    },
+    {
+      "$oid": "66352066b87b000079003a92"
+    },
+    {
+      "$oid": "66352066b87b000079003a93"
+    },
+    {
+      "$oid": "66352066b87b000079003a94"
+    },
+    {
+      "$oid": "66352066b87b000079003a95"
+    },
+    {
+      "$oid": "66352066b87b000079003a96"
+    },
+    {
+      "$oid": "66352066b87b000079003a97"
+    },
+    {
+      "$oid": "66352066b87b000079003a98"
+    },
+    {
+      "$oid": "66352066b87b000079003a99"
+    },
+    {
+      "$oid": "66352066b87b000079003a9a"
+    },
+    {
+      "$oid": "66352066b87b000079003a9b"
+    },
+    {
+      "$oid": "66352066b87b000079003a9c"
+    },
+    {
+      "$oid": "66352066b87b000079003a9d"
+    },
+    {
+      "$oid": "66352066b87b000079003a9e"
+    },
+    {
+      "$oid": "66352066b87b000079003a9f"
+    },
+    {
+      "$oid": "66352066b87b000079003aa0"
+    },
+    {
+      "$oid": "66352066b87b000079003aa1"
+    },
+    {
+      "$oid": "66352066b87b000079003aa2"
+    }
+  ],
+  "label": "Tâche Moteur Thermique",
+  "type": "Declaratif",
+  "speciality": "Moteur Thermique",
+  "level": "Junior",
+  "total": 25,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003aa4"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003aa3"
+    },
+    {
+      "$oid": "66352066b87b000079003aa5"
+    },
+    {
+      "$oid": "66352066b87b000079003aa6"
+    },
+    {
+      "$oid": "66352066b87b000079003aa7"
+    }
+  ],
+  "label": "Tâche Pneumatique",
+  "type": "Declaratif",
+  "speciality": "Pneumatique",
+  "level": "Junior",
+  "total": 4,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003aa9"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003aa8"
+    },
+    {
+      "$oid": "66352066b87b000079003aaa"
+    },
+    {
+      "$oid": "66352066b87b000079003aab"
+    }
+  ],
+  "label": "Tâche Pont",
+  "type": "Declaratif",
+  "speciality": "Pont",
+  "level": "Junior",
+  "total": 3,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003aad"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003aac"
+    }
+  ],
+  "label": "Tâche Reducteur",
+  "type": "Declaratif",
+  "speciality": "Reducteur",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003aaf"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003aae"
+    },
+    {
+      "$oid": "66352066b87b000079003ab0"
+    },
+    {
+      "$oid": "66352066b87b000079003ab1"
+    },
+    {
+      "$oid": "66352066b87b000079003ab2"
+    }
+  ],
+  "label": "Tâche Suspension",
+  "type": "Declaratif",
+  "speciality": "Suspension",
+  "level": "Junior",
+  "total": 4,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003ab4"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003ab3"
+    }
+  ],
+  "label": "Tâche Suspension à Lame",
+  "type": "Declaratif",
+  "speciality": "Suspension à Lame",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003ab6"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003ab5"
+    }
+  ],
+  "label": "Tâche Suspension Ressort",
+  "type": "Declaratif",
+  "speciality": "Suspension Ressort",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003ab8"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003ab7"
+    }
+  ],
+  "label": "Tâche Suspension Pneumatique",
+  "type": "Declaratif",
+  "speciality": "Suspension Pneumatique",
+  "level": "Junior",
+  "total": 1,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "66352066b87b000079003aba"
+  },
+  "questions": [
+    {
+      "$oid": "66352066b87b000079003ab9"
+    },
+    {
+      "$oid": "66352066b87b000079003abb"
+    },
+    {
+      "$oid": "66352066b87b000079003abc"
+    },
+    {
+      "$oid": "66352066b87b000079003abd"
+    },
+    {
+      "$oid": "66352066b87b000079003abe"
+    },
+    {
+      "$oid": "66352066b87b000079003abf"
+    },
+    {
+      "$oid": "66352066b87b000079003ac0"
+    },
+    {
+      "$oid": "66352066b87b000079003ac1"
+    },
+    {
+      "$oid": "66352066b87b000079003ac2"
+    },
+    {
+      "$oid": "66352066b87b000079003ac3"
+    },
+    {
+      "$oid": "66352066b87b000079003ac4"
+    },
+    {
+      "$oid": "66352066b87b000079003ac5"
+    },
+    {
+      "$oid": "66352066b87b000079003ac6"
+    },
+    {
+      "$oid": "66352066b87b000079003ac7"
+    },
+    {
+      "$oid": "66352066b87b000079003ac8"
+    },
+    {
+      "$oid": "66352066b87b000079003ac9"
+    },
+    {
+      "$oid": "66352066b87b000079003aca"
+    },
+    {
+      "$oid": "66352066b87b000079003acb"
+    },
+    {
+      "$oid": "66352066b87b000079003acc"
+    },
+    {
+      "$oid": "66352066b87b000079003acd"
+    }
+  ],
+  "label": "Tâche Transversale",
+  "type": "Declaratif",
+  "speciality": "Transversale",
+  "level": "Junior",
+  "total": 20,
+  "active": true,
+  "created": "03-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486dfa77000054002844"
+  },
+  "questions": [
+    {
+      "$oid": "663b486dfa77000054002843"
+    },
+    {
+      "$oid": "663b486dfa77000054002845"
+    },
+    {
+      "$oid": "663b486dfa77000054002846"
+    },
+    {
+      "$oid": "663b486dfa77000054002847"
+    },
+    {
+      "$oid": "663b486dfa77000054002848"
+    }
+  ],
+  "label": "Tâche Arbre de Transmission",
+  "type": "Declaratif",
+  "speciality": "Arbre de Transmission",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486dfa7700005400284a"
+  },
+  "questions": [
+    {
+      "$oid": "663b486dfa77000054002849"
+    },
+    {
+      "$oid": "663b486dfa7700005400284b"
+    }
+  ],
+  "label": "Tâche Assistance à la Conduite",
+  "type": "Declaratif",
+  "speciality": "Assistance à la Conduite",
+  "level": "Senior",
+  "total": 2,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486dfa7700005400284d"
+  },
+  "questions": [
+    {
+      "$oid": "663b486dfa7700005400284c"
+    },
+    {
+      "$oid": "663b486dfa7700005400284e"
+    },
+    {
+      "$oid": "663b486dfa7700005400284f"
+    },
+    {
+      "$oid": "663b486dfa77000054002850"
+    },
+    {
+      "$oid": "663b486dfa77000054002851"
+    }
+  ],
+  "label": "Tâche Boîte de Transfert",
+  "type": "Declaratif",
+  "speciality": "Boîte de Transfert",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486dfa77000054002853"
+  },
+  "questions": [
+    {
+      "$oid": "663b486dfa77000054002852"
+    },
+    {
+      "$oid": "663b486dfa77000054002854"
+    },
+    {
+      "$oid": "663b486dfa77000054002855"
+    },
+    {
+      "$oid": "663b486dfa77000054002856"
+    },
+    {
+      "$oid": "663b486dfa77000054002857"
+    },
+    {
+      "$oid": "663b486dfa77000054002858"
+    },
+    {
+      "$oid": "663b486dfa77000054002859"
+    },
+    {
+      "$oid": "663b486dfa7700005400285a"
+    },
+    {
+      "$oid": "663b486dfa7700005400285b"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse",
+  "level": "Senior",
+  "total": 9,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486dfa7700005400285d"
+  },
+  "questions": [
+    {
+      "$oid": "663b486dfa7700005400285c"
+    },
+    {
+      "$oid": "663b486dfa7700005400285e"
+    },
+    {
+      "$oid": "663b486dfa7700005400285f"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse à Variation Continue",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse à Variation Continue",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486dfa77000054002861"
+  },
+  "questions": [
+    {
+      "$oid": "663b486dfa77000054002860"
+    },
+    {
+      "$oid": "663b486efa77000054002862"
+    },
+    {
+      "$oid": "663b486efa77000054002863"
+    },
+    {
+      "$oid": "663b486efa77000054002864"
+    },
+    {
+      "$oid": "663b486efa77000054002865"
+    },
+    {
+      "$oid": "663b486efa77000054002866"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse Automatique",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse Automatique",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa77000054002868"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa77000054002867"
+    },
+    {
+      "$oid": "663b486efa77000054002869"
+    },
+    {
+      "$oid": "663b486efa7700005400286a"
+    },
+    {
+      "$oid": "663b486efa7700005400286b"
+    },
+    {
+      "$oid": "663b486efa7700005400286c"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse Mécanique",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse Mécanique",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa7700005400286e"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa7700005400286d"
+    },
+    {
+      "$oid": "663b486efa7700005400286f"
+    },
+    {
+      "$oid": "663b486efa77000054002870"
+    },
+    {
+      "$oid": "663b486efa77000054002871"
+    },
+    {
+      "$oid": "663b486efa77000054002872"
+    }
+  ],
+  "label": "Tâche Climatisation",
+  "type": "Declaratif",
+  "speciality": "Climatisation",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa77000054002874"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa77000054002873"
+    },
+    {
+      "$oid": "663b486efa77000054002875"
+    },
+    {
+      "$oid": "663b486efa77000054002876"
+    }
+  ],
+  "label": "Tâche Demi Arbre de Roue",
+  "type": "Declaratif",
+  "speciality": "Demi Arbre de Roue",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa77000054002878"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa77000054002877"
+    },
+    {
+      "$oid": "663b486efa77000054002879"
+    },
+    {
+      "$oid": "663b486efa7700005400287a"
+    },
+    {
+      "$oid": "663b486efa7700005400287b"
+    },
+    {
+      "$oid": "663b486efa7700005400287c"
+    },
+    {
+      "$oid": "663b486efa7700005400287d"
+    }
+  ],
+  "label": "Tâche Direction",
+  "type": "Declaratif",
+  "speciality": "Direction",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa7700005400287f"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa7700005400287e"
+    },
+    {
+      "$oid": "663b486efa77000054002880"
+    },
+    {
+      "$oid": "663b486efa77000054002881"
+    },
+    {
+      "$oid": "663b486efa77000054002882"
+    },
+    {
+      "$oid": "663b486efa77000054002883"
+    }
+  ],
+  "label": "Tâche Electricité et Electronique",
+  "type": "Declaratif",
+  "speciality": "Electricité et Electronique",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa77000054002885"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa77000054002884"
+    },
+    {
+      "$oid": "663b486efa77000054002886"
+    },
+    {
+      "$oid": "663b486efa77000054002887"
+    },
+    {
+      "$oid": "663b486efa77000054002888"
+    },
+    {
+      "$oid": "663b486efa77000054002889"
+    }
+  ],
+  "label": "Tâche Freinage",
+  "type": "Declaratif",
+  "speciality": "Freinage",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa7700005400288b"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa7700005400288a"
+    },
+    {
+      "$oid": "663b486efa7700005400288c"
+    },
+    {
+      "$oid": "663b486efa7700005400288d"
+    }
+  ],
+  "label": "Tâche Freinage Electromagnétique",
+  "type": "Declaratif",
+  "speciality": "Freinage Electromagnétique",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa7700005400288f"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa7700005400288e"
+    },
+    {
+      "$oid": "663b486efa77000054002890"
+    },
+    {
+      "$oid": "663b486efa77000054002891"
+    },
+    {
+      "$oid": "663b486efa77000054002892"
+    },
+    {
+      "$oid": "663b486efa77000054002893"
+    },
+    {
+      "$oid": "663b486efa77000054002894"
+    }
+  ],
+  "label": "Tâche Freinage Hydraulique",
+  "type": "Declaratif",
+  "speciality": "Freinage Hydraulique",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa77000054002896"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa77000054002895"
+    },
+    {
+      "$oid": "663b486efa77000054002897"
+    },
+    {
+      "$oid": "663b486efa77000054002898"
+    },
+    {
+      "$oid": "663b486efa77000054002899"
+    }
+  ],
+  "label": "Tâche Freinage Pneumatique",
+  "type": "Declaratif",
+  "speciality": "Freinage Pneumatique",
+  "level": "Senior",
+  "total": 4,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa7700005400289b"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa7700005400289a"
+    },
+    {
+      "$oid": "663b486efa7700005400289c"
+    },
+    {
+      "$oid": "663b486efa7700005400289d"
+    }
+  ],
+  "label": "Tâche Hydraulique",
+  "type": "Declaratif",
+  "speciality": "Hydraulique",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa7700005400289f"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa7700005400289e"
+    },
+    {
+      "$oid": "663b486efa770000540028a0"
+    },
+    {
+      "$oid": "663b486efa770000540028a1"
+    }
+  ],
+  "label": "Tâche Moteur Diesel",
+  "type": "Declaratif",
+  "speciality": "Moteur Diesel",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa770000540028a3"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa770000540028a2"
+    },
+    {
+      "$oid": "663b486efa770000540028a4"
+    },
+    {
+      "$oid": "663b486efa770000540028a5"
+    }
+  ],
+  "label": "Tâche Moteur Electrique",
+  "type": "Declaratif",
+  "speciality": "Moteur Electrique",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa770000540028a7"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa770000540028a6"
+    },
+    {
+      "$oid": "663b486efa770000540028a8"
+    },
+    {
+      "$oid": "663b486efa770000540028a9"
+    }
+  ],
+  "label": "Tâche Moteur Essence",
+  "type": "Declaratif",
+  "speciality": "Moteur Essence",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa770000540028ab"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa770000540028aa"
+    },
+    {
+      "$oid": "663b486efa770000540028ac"
+    },
+    {
+      "$oid": "663b486efa770000540028ad"
+    },
+    {
+      "$oid": "663b486efa770000540028ae"
+    },
+    {
+      "$oid": "663b486efa770000540028af"
+    },
+    {
+      "$oid": "663b486efa770000540028b0"
+    },
+    {
+      "$oid": "663b486efa770000540028b1"
+    },
+    {
+      "$oid": "663b486efa770000540028b2"
+    },
+    {
+      "$oid": "663b486efa770000540028b3"
+    },
+    {
+      "$oid": "663b486efa770000540028b4"
+    }
+  ],
+  "label": "Tâche Moteur Thermique",
+  "type": "Declaratif",
+  "speciality": "Moteur Thermique",
+  "level": "Senior",
+  "total": 10,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486efa770000540028b6"
+  },
+  "questions": [
+    {
+      "$oid": "663b486efa770000540028b5"
+    }
+  ],
+  "label": "Tâche Réseaux de Communication",
+  "type": "Declaratif",
+  "speciality": "Réseaux de Communication",
+  "level": "Senior",
+  "total": 1,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028b8"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028b7"
+    }
+  ],
+  "label": "Tâche Pneumatique",
+  "type": "Declaratif",
+  "speciality": "Pneumatique",
+  "level": "Senior",
+  "total": 1,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028ba"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028b9"
+    },
+    {
+      "$oid": "663b486ffa770000540028bb"
+    },
+    {
+      "$oid": "663b486ffa770000540028bc"
+    },
+    {
+      "$oid": "663b486ffa770000540028bd"
+    },
+    {
+      "$oid": "663b486ffa770000540028be"
+    },
+    {
+      "$oid": "663b486ffa770000540028bf"
+    },
+    {
+      "$oid": "663b486ffa770000540028c0"
+    }
+  ],
+  "label": "Tâche Pont",
+  "type": "Declaratif",
+  "speciality": "Pont",
+  "level": "Senior",
+  "total": 7,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028c2"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028c1"
+    },
+    {
+      "$oid": "663b486ffa770000540028c3"
+    },
+    {
+      "$oid": "663b486ffa770000540028c4"
+    }
+  ],
+  "label": "Tâche Reducteur",
+  "type": "Declaratif",
+  "speciality": "Reducteur",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028c6"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028c5"
+    },
+    {
+      "$oid": "663b486ffa770000540028c7"
+    },
+    {
+      "$oid": "663b486ffa770000540028c8"
+    },
+    {
+      "$oid": "663b486ffa770000540028c9"
+    }
+  ],
+  "label": "Tâche Suspension",
+  "type": "Declaratif",
+  "speciality": "Suspension",
+  "level": "Senior",
+  "total": 4,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028cb"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028ca"
+    },
+    {
+      "$oid": "663b486ffa770000540028cc"
+    },
+    {
+      "$oid": "663b486ffa770000540028cd"
+    }
+  ],
+  "label": "Tâche Suspension à Lame",
+  "type": "Declaratif",
+  "speciality": "Suspension à Lame",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028cf"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028ce"
+    },
+    {
+      "$oid": "663b486ffa770000540028d0"
+    },
+    {
+      "$oid": "663b486ffa770000540028d1"
+    },
+    {
+      "$oid": "663b486ffa770000540028d2"
+    },
+    {
+      "$oid": "663b486ffa770000540028d3"
+    },
+    {
+      "$oid": "663b486ffa770000540028d4"
+    }
+  ],
+  "label": "Tâche Suspension Ressort",
+  "type": "Declaratif",
+  "speciality": "Suspension Ressort",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028d6"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028d5"
+    },
+    {
+      "$oid": "663b486ffa770000540028d7"
+    },
+    {
+      "$oid": "663b486ffa770000540028d8"
+    }
+  ],
+  "label": "Tâche Suspension Pneumatique",
+  "type": "Declaratif",
+  "speciality": "Suspension Pneumatique",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b486ffa770000540028da"
+  },
+  "questions": [
+    {
+      "$oid": "663b486ffa770000540028d9"
+    },
+    {
+      "$oid": "663b486ffa770000540028db"
+    },
+    {
+      "$oid": "663b486ffa770000540028dc"
+    },
+    {
+      "$oid": "663b486ffa770000540028dd"
+    },
+    {
+      "$oid": "663b486ffa770000540028de"
+    },
+    {
+      "$oid": "663b486ffa770000540028df"
+    }
+  ],
+  "label": "Tâche Transversale",
+  "type": "Declaratif",
+  "speciality": "Transversale",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b491ffa770000540028e1"
+  },
+  "questions": [
+    {
+      "$oid": "663b491ffa770000540028e0"
+    },
+    {
+      "$oid": "663b491ffa770000540028e2"
+    },
+    {
+      "$oid": "663b491ffa770000540028e3"
+    },
+    {
+      "$oid": "663b491ffa770000540028e4"
+    },
+    {
+      "$oid": "663b491ffa770000540028e5"
+    },
+    {
+      "$oid": "663b491ffa770000540028e6"
+    },
+    {
+      "$oid": "663b491ffa770000540028e7"
+    },
+    {
+      "$oid": "663b491ffa770000540028e8"
+    },
+    {
+      "$oid": "663b491ffa770000540028e9"
+    },
+    {
+      "$oid": "663b491ffa770000540028ea"
+    }
+  ],
+  "label": "QCM Arbre de Transmission",
+  "type": "Factuel",
+  "speciality": "Arbre de Transmission",
+  "level": "Senior",
+  "total": 10,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b491ffa770000540028ec"
+  },
+  "questions": [
+    {
+      "$oid": "663b491ffa770000540028eb"
+    },
+    {
+      "$oid": "663b491ffa770000540028ed"
+    },
+    {
+      "$oid": "663b491ffa770000540028ee"
+    },
+    {
+      "$oid": "663b491ffa770000540028ef"
+    }
+  ],
+  "label": "QCM Assistance à la Conduite",
+  "type": "Factuel",
+  "speciality": "Assistance à la Conduite",
+  "level": "Senior",
+  "total": 4,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b491ffa770000540028f1"
+  },
+  "questions": [
+    {
+      "$oid": "663b491ffa770000540028f0"
+    },
+    {
+      "$oid": "663b4920fa770000540028f2"
+    },
+    {
+      "$oid": "663b4920fa770000540028f3"
+    },
+    {
+      "$oid": "663b4920fa770000540028f4"
+    }
+  ],
+  "label": "QCM Boite de Transfert",
+  "type": "Factuel",
+  "speciality": "Boite de Transfert",
+  "level": "Senior",
+  "total": 4,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa770000540028f6"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa770000540028f5"
+    },
+    {
+      "$oid": "663b4920fa770000540028f7"
+    },
+    {
+      "$oid": "663b4920fa770000540028f8"
+    },
+    {
+      "$oid": "663b4920fa770000540028f9"
+    },
+    {
+      "$oid": "663b4920fa770000540028fa"
+    },
+    {
+      "$oid": "663b4920fa770000540028fb"
+    },
+    {
+      "$oid": "663b4920fa770000540028fc"
+    },
+    {
+      "$oid": "663b4920fa770000540028fd"
+    }
+  ],
+  "label": "QCM Boite de Vitesse",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse",
+  "level": "Senior",
+  "total": 8,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa770000540028ff"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa770000540028fe"
+    },
+    {
+      "$oid": "663b4920fa77000054002900"
+    },
+    {
+      "$oid": "663b4920fa77000054002901"
+    },
+    {
+      "$oid": "663b4920fa77000054002902"
+    }
+  ],
+  "label": "QCM Boite de Vitesse à Variation Continue",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse à Variation Continue",
+  "level": "Senior",
+  "total": 4,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa77000054002904"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa77000054002903"
+    },
+    {
+      "$oid": "663b4920fa77000054002905"
+    },
+    {
+      "$oid": "663b4920fa77000054002906"
+    },
+    {
+      "$oid": "663b4920fa77000054002907"
+    },
+    {
+      "$oid": "663b4920fa77000054002908"
+    },
+    {
+      "$oid": "663b4920fa77000054002909"
+    },
+    {
+      "$oid": "663b4920fa7700005400290a"
+    }
+  ],
+  "label": "QCM Boite de Vitesse Automatique",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse Automatique",
+  "level": "Senior",
+  "total": 7,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa7700005400290c"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa7700005400290b"
+    },
+    {
+      "$oid": "663b4920fa7700005400290d"
+    },
+    {
+      "$oid": "663b4920fa7700005400290e"
+    },
+    {
+      "$oid": "663b4920fa7700005400290f"
+    },
+    {
+      "$oid": "663b4920fa77000054002910"
+    },
+    {
+      "$oid": "663b4920fa77000054002911"
+    }
+  ],
+  "label": "QCM Boite de Vitesse Mécanique",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse Mécanique",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa77000054002913"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa77000054002912"
+    },
+    {
+      "$oid": "663b4920fa77000054002914"
+    },
+    {
+      "$oid": "663b4920fa77000054002915"
+    },
+    {
+      "$oid": "663b4920fa77000054002916"
+    },
+    {
+      "$oid": "663b4920fa77000054002917"
+    },
+    {
+      "$oid": "663b4920fa77000054002918"
+    },
+    {
+      "$oid": "663b4920fa77000054002919"
+    }
+  ],
+  "label": "QCM Climatisation",
+  "type": "Factuel",
+  "speciality": "Climatisation",
+  "level": "Senior",
+  "total": 7,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa7700005400291b"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa7700005400291a"
+    },
+    {
+      "$oid": "663b4920fa7700005400291c"
+    },
+    {
+      "$oid": "663b4920fa7700005400291d"
+    },
+    {
+      "$oid": "663b4920fa7700005400291e"
+    },
+    {
+      "$oid": "663b4920fa7700005400291f"
+    },
+    {
+      "$oid": "663b4920fa77000054002920"
+    },
+    {
+      "$oid": "663b4920fa77000054002921"
+    },
+    {
+      "$oid": "663b4920fa77000054002922"
+    },
+    {
+      "$oid": "663b4920fa77000054002923"
+    },
+    {
+      "$oid": "663b4920fa77000054002924"
+    }
+  ],
+  "label": "QCM Demi Arbre de Roue",
+  "type": "Factuel",
+  "speciality": "Demi Arbre de Roue",
+  "level": "Senior",
+  "total": 10,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa77000054002926"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa77000054002925"
+    },
+    {
+      "$oid": "663b4920fa77000054002927"
+    },
+    {
+      "$oid": "663b4920fa77000054002928"
+    },
+    {
+      "$oid": "663b4920fa77000054002929"
+    },
+    {
+      "$oid": "663b4920fa7700005400292a"
+    },
+    {
+      "$oid": "663b4920fa7700005400292b"
+    },
+    {
+      "$oid": "663b4920fa7700005400292c"
+    }
+  ],
+  "label": "QCM Direction",
+  "type": "Factuel",
+  "speciality": "Direction",
+  "level": "Senior",
+  "total": 7,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa7700005400292e"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa7700005400292d"
+    },
+    {
+      "$oid": "663b4920fa7700005400292f"
+    },
+    {
+      "$oid": "663b4920fa77000054002930"
+    },
+    {
+      "$oid": "663b4920fa77000054002931"
+    },
+    {
+      "$oid": "663b4920fa77000054002932"
+    },
+    {
+      "$oid": "663b4920fa77000054002933"
+    },
+    {
+      "$oid": "663b4920fa77000054002934"
+    },
+    {
+      "$oid": "663b4920fa77000054002935"
+    },
+    {
+      "$oid": "663b4920fa77000054002936"
+    },
+    {
+      "$oid": "663b4920fa77000054002937"
+    },
+    {
+      "$oid": "663b4920fa77000054002938"
+    },
+    {
+      "$oid": "663b4920fa77000054002939"
+    },
+    {
+      "$oid": "663b4920fa7700005400293a"
+    },
+    {
+      "$oid": "663b4920fa7700005400293b"
+    },
+    {
+      "$oid": "663b4920fa7700005400293c"
+    },
+    {
+      "$oid": "663b4920fa7700005400293d"
+    },
+    {
+      "$oid": "663b4920fa7700005400293e"
+    },
+    {
+      "$oid": "663b4920fa7700005400293f"
+    },
+    {
+      "$oid": "663b4920fa77000054002940"
+    }
+  ],
+  "label": "QCM Electricité et Electronique",
+  "type": "Factuel",
+  "speciality": "Electricité et Electronique",
+  "level": "Senior",
+  "total": 19,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa77000054002942"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa77000054002941"
+    },
+    {
+      "$oid": "663b4920fa77000054002943"
+    },
+    {
+      "$oid": "663b4920fa77000054002944"
+    },
+    {
+      "$oid": "663b4920fa77000054002945"
+    },
+    {
+      "$oid": "663b4920fa77000054002946"
+    },
+    {
+      "$oid": "663b4920fa77000054002947"
+    },
+    {
+      "$oid": "663b4920fa77000054002948"
+    },
+    {
+      "$oid": "663b4920fa77000054002949"
+    },
+    {
+      "$oid": "663b4920fa7700005400294a"
+    },
+    {
+      "$oid": "663b4920fa7700005400294b"
+    },
+    {
+      "$oid": "663b4920fa7700005400294c"
+    },
+    {
+      "$oid": "663b4920fa7700005400294d"
+    },
+    {
+      "$oid": "663b4920fa7700005400294e"
+    }
+  ],
+  "label": "QCM Freinage",
+  "type": "Factuel",
+  "speciality": "Freinage",
+  "level": "Senior",
+  "total": 13,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4920fa77000054002950"
+  },
+  "questions": [
+    {
+      "$oid": "663b4920fa7700005400294f"
+    },
+    {
+      "$oid": "663b4920fa77000054002951"
+    },
+    {
+      "$oid": "663b4921fa77000054002952"
+    }
+  ],
+  "label": "QCM Freinage Electromagnétique",
+  "type": "Factuel",
+  "speciality": "Freinage Electromagnétique",
+  "level": "Senior",
+  "total": 3,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4921fa77000054002954"
+  },
+  "questions": [
+    {
+      "$oid": "663b4921fa77000054002953"
+    },
+    {
+      "$oid": "663b4921fa77000054002955"
+    },
+    {
+      "$oid": "663b4921fa77000054002956"
+    },
+    {
+      "$oid": "663b4921fa77000054002957"
+    },
+    {
+      "$oid": "663b4921fa77000054002958"
+    }
+  ],
+  "label": "QCM Freinage Hydraulique",
+  "type": "Factuel",
+  "speciality": "Freinage Hydraulique",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4921fa7700005400295a"
+  },
+  "questions": [
+    {
+      "$oid": "663b4921fa77000054002959"
+    },
+    {
+      "$oid": "663b4921fa7700005400295b"
+    },
+    {
+      "$oid": "663b4921fa7700005400295c"
+    },
+    {
+      "$oid": "663b4921fa7700005400295d"
+    },
+    {
+      "$oid": "663b4921fa7700005400295e"
+    },
+    {
+      "$oid": "663b4921fa7700005400295f"
+    },
+    {
+      "$oid": "663b4921fa77000054002960"
+    },
+    {
+      "$oid": "663b4921fa77000054002961"
+    },
+    {
+      "$oid": "663b4921fa77000054002962"
+    },
+    {
+      "$oid": "663b4921fa77000054002963"
+    },
+    {
+      "$oid": "663b4921fa77000054002964"
+    },
+    {
+      "$oid": "663b4921fa77000054002965"
+    },
+    {
+      "$oid": "663b4921fa77000054002966"
+    },
+    {
+      "$oid": "663b4921fa77000054002967"
+    },
+    {
+      "$oid": "663b4921fa77000054002968"
+    },
+    {
+      "$oid": "663b4921fa77000054002969"
+    },
+    {
+      "$oid": "663b4921fa7700005400296a"
+    },
+    {
+      "$oid": "663b4921fa7700005400296b"
+    },
+    {
+      "$oid": "663b4921fa7700005400296c"
+    },
+    {
+      "$oid": "663b4921fa7700005400296d"
+    },
+    {
+      "$oid": "663b4921fa7700005400296e"
+    },
+    {
+      "$oid": "663b4921fa7700005400296f"
+    },
+    {
+      "$oid": "663b4921fa77000054002970"
+    },
+    {
+      "$oid": "663b4921fa77000054002971"
+    },
+    {
+      "$oid": "663b4921fa77000054002972"
+    },
+    {
+      "$oid": "663b4921fa77000054002973"
+    },
+    {
+      "$oid": "663b4921fa77000054002974"
+    },
+    {
+      "$oid": "663b4921fa77000054002975"
+    },
+    {
+      "$oid": "663b4921fa77000054002976"
+    },
+    {
+      "$oid": "663b4921fa77000054002977"
+    },
+    {
+      "$oid": "663b4921fa77000054002978"
+    },
+    {
+      "$oid": "663b4921fa77000054002979"
+    },
+    {
+      "$oid": "663b4921fa7700005400297a"
+    },
+    {
+      "$oid": "663b4921fa7700005400297b"
+    }
+  ],
+  "label": "QCM Freinage Pneumatique",
+  "type": "Factuel",
+  "speciality": "Freinage Pneumatique",
+  "level": "Senior",
+  "total": 34,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4921fa7700005400297d"
+  },
+  "questions": [
+    {
+      "$oid": "663b4921fa7700005400297c"
+    },
+    {
+      "$oid": "663b4921fa7700005400297e"
+    },
+    {
+      "$oid": "663b4921fa7700005400297f"
+    },
+    {
+      "$oid": "663b4921fa77000054002980"
+    },
+    {
+      "$oid": "663b4921fa77000054002981"
+    },
+    {
+      "$oid": "663b4921fa77000054002982"
+    },
+    {
+      "$oid": "663b4921fa77000054002983"
+    },
+    {
+      "$oid": "663b4921fa77000054002984"
+    },
+    {
+      "$oid": "663b4921fa77000054002985"
+    },
+    {
+      "$oid": "663b4921fa77000054002986"
+    },
+    {
+      "$oid": "663b4921fa77000054002987"
+    },
+    {
+      "$oid": "663b4921fa77000054002988"
+    },
+    {
+      "$oid": "663b4921fa77000054002989"
+    },
+    {
+      "$oid": "663b4921fa7700005400298a"
+    },
+    {
+      "$oid": "663b4921fa7700005400298b"
+    },
+    {
+      "$oid": "663b4921fa7700005400298c"
+    },
+    {
+      "$oid": "66d5c468d77b0000ca004bdd"
+    },
+    {
+      "$oid": "66d5c468d77b0000ca004bde"
+    },
+    {
+      "$oid": "66d5c468d77b0000ca004bdf"
+    }
+  ],
+  "label": "QCM Hydraulique",
+  "type": "Factuel",
+  "speciality": "Hydraulique",
+  "level": "Senior",
+  "total": 19,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4921fa7700005400298e"
+  },
+  "questions": [
+    {
+      "$oid": "663b4921fa7700005400298d"
+    },
+    {
+      "$oid": "663b4921fa7700005400298f"
+    },
+    {
+      "$oid": "663b4921fa77000054002990"
+    },
+    {
+      "$oid": "663b4921fa77000054002991"
+    },
+    {
+      "$oid": "663b4921fa77000054002992"
+    },
+    {
+      "$oid": "663b4921fa77000054002993"
+    },
+    {
+      "$oid": "663b4921fa77000054002994"
+    },
+    {
+      "$oid": "663b4921fa77000054002995"
+    },
+    {
+      "$oid": "663b4921fa77000054002996"
+    },
+    {
+      "$oid": "663b4921fa77000054002997"
+    },
+    {
+      "$oid": "663b4921fa77000054002998"
+    },
+    {
+      "$oid": "663b4921fa77000054002999"
+    },
+    {
+      "$oid": "663b4921fa7700005400299a"
+    },
+    {
+      "$oid": "663b4921fa7700005400299b"
+    },
+    {
+      "$oid": "663b4921fa7700005400299c"
+    },
+    {
+      "$oid": "663b4921fa7700005400299d"
+    },
+    {
+      "$oid": "663b4921fa7700005400299e"
+    },
+    {
+      "$oid": "663b4921fa7700005400299f"
+    },
+    {
+      "$oid": "663b4921fa770000540029a0"
+    },
+    {
+      "$oid": "663b4921fa770000540029a1"
+    },
+    {
+      "$oid": "66d5c468d77b0000ca004be0"
+    }
+  ],
+  "label": "QCM Moteur Diesel",
+  "type": "Factuel",
+  "speciality": "Moteur Diesel",
+  "level": "Senior",
+  "total": 21,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4921fa770000540029a3"
+  },
+  "questions": [
+    {
+      "$oid": "663b4921fa770000540029a2"
+    },
+    {
+      "$oid": "663b4921fa770000540029a4"
+    },
+    {
+      "$oid": "663b4921fa770000540029a5"
+    },
+    {
+      "$oid": "663b4921fa770000540029a6"
+    },
+    {
+      "$oid": "663b4921fa770000540029a7"
+    },
+    {
+      "$oid": "663b4921fa770000540029a8"
+    }
+  ],
+  "label": "QCM Moteur Electrique",
+  "type": "Factuel",
+  "speciality": "Moteur Electrique",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4921fa770000540029aa"
+  },
+  "questions": [
+    {
+      "$oid": "663b4921fa770000540029a9"
+    },
+    {
+      "$oid": "663b4921fa770000540029ab"
+    },
+    {
+      "$oid": "663b4921fa770000540029ac"
+    },
+    {
+      "$oid": "663b4921fa770000540029ad"
+    },
+    {
+      "$oid": "663b4921fa770000540029ae"
+    }
+  ],
+  "label": "QCM Moteur Essence",
+  "type": "Factuel",
+  "speciality": "Moteur Essence",
+  "level": "Senior",
+  "total": 5,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4921fa770000540029b0"
+  },
+  "questions": [
+    {
+      "$oid": "663b4921fa770000540029af"
+    },
+    {
+      "$oid": "663b4921fa770000540029b1"
+    },
+    {
+      "$oid": "663b4922fa770000540029b2"
+    },
+    {
+      "$oid": "663b4922fa770000540029b3"
+    },
+    {
+      "$oid": "663b4922fa770000540029b4"
+    },
+    {
+      "$oid": "663b4922fa770000540029b5"
+    },
+    {
+      "$oid": "663b4922fa770000540029b6"
+    },
+    {
+      "$oid": "663b4922fa770000540029b7"
+    },
+    {
+      "$oid": "663b4922fa770000540029b9"
+    },
+    {
+      "$oid": "663b4922fa770000540029ba"
+    },
+    {
+      "$oid": "663b4922fa770000540029bb"
+    },
+    {
+      "$oid": "663b4922fa770000540029bc"
+    },
+    {
+      "$oid": "663b4922fa770000540029bd"
+    },
+    {
+      "$oid": "663b4922fa770000540029be"
+    }
+  ],
+  "label": "QCM Moteur Thermique",
+  "type": "Factuel",
+  "speciality": "Moteur Thermique",
+  "level": "Senior",
+  "total": 14,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4922fa770000540029c0"
+  },
+  "questions": [
+    {
+      "$oid": "663b4922fa770000540029bf"
+    },
+    {
+      "$oid": "663b4922fa770000540029c1"
+    },
+    {
+      "$oid": "663b4922fa770000540029c2"
+    },
+    {
+      "$oid": "663b4922fa770000540029c3"
+    },
+    {
+      "$oid": "663b4922fa770000540029c4"
+    },
+    {
+      "$oid": "663b4922fa770000540029c5"
+    }
+  ],
+  "label": "QCM Pont",
+  "type": "Factuel",
+  "speciality": "Pont",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4922fa770000540029c7"
+  },
+  "questions": [
+    {
+      "$oid": "663b4922fa770000540029c6"
+    },
+    {
+      "$oid": "663b4922fa770000540029c8"
+    },
+    {
+      "$oid": "663b4922fa770000540029c9"
+    },
+    {
+      "$oid": "663b4922fa770000540029ca"
+    },
+    {
+      "$oid": "663b4922fa770000540029cb"
+    },
+    {
+      "$oid": "663b4922fa770000540029cc"
+    }
+  ],
+  "label": "QCM Reducteur",
+  "type": "Factuel",
+  "speciality": "Reducteur",
+  "level": "Senior",
+  "total": 6,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4922fa770000540029ce"
+  },
+  "questions": [
+    {
+      "$oid": "663b4922fa770000540029cd"
+    },
+    {
+      "$oid": "663b4922fa770000540029cf"
+    },
+    {
+      "$oid": "663b4922fa770000540029d0"
+    },
+    {
+      "$oid": "663b4922fa770000540029d1"
+    }
+  ],
+  "label": "QCM Réseaux de Communication",
+  "type": "Factuel",
+  "speciality": "Réseaux de Communication",
+  "level": "Senior",
+  "total": 4,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4922fa770000540029d3"
+  },
+  "questions": [
+    {
+      "$oid": "663b4922fa770000540029d2"
+    },
+    {
+      "$oid": "663b4922fa770000540029d4"
+    },
+    {
+      "$oid": "663b4922fa770000540029d5"
+    },
+    {
+      "$oid": "663b4922fa770000540029d6"
+    },
+    {
+      "$oid": "663b4922fa770000540029d7"
+    },
+    {
+      "$oid": "663b4922fa770000540029d8"
+    },
+    {
+      "$oid": "663b4922fa770000540029d9"
+    },
+    {
+      "$oid": "663b4922fa770000540029da"
+    },
+    {
+      "$oid": "663b4922fa770000540029db"
+    },
+    {
+      "$oid": "663b4922fa770000540029dc"
+    }
+  ],
+  "label": "QCM Suspension",
+  "type": "Factuel",
+  "speciality": "Suspension",
+  "level": "Senior",
+  "total": 10,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4922fa770000540029de"
+  },
+  "questions": [
+    {
+      "$oid": "663b4922fa770000540029dd"
+    },
+    {
+      "$oid": "663b4922fa770000540029df"
+    },
+    {
+      "$oid": "663b4922fa770000540029e0"
+    },
+    {
+      "$oid": "663b4922fa770000540029e1"
+    },
+    {
+      "$oid": "663b4922fa770000540029e2"
+    },
+    {
+      "$oid": "663b4922fa770000540029e3"
+    },
+    {
+      "$oid": "663b4922fa770000540029e4"
+    },
+    {
+      "$oid": "663b4922fa770000540029e5"
+    },
+    {
+      "$oid": "663b4922fa770000540029e6"
+    },
+    {
+      "$oid": "663b4922fa770000540029e7"
+    },
+    {
+      "$oid": "663b4922fa770000540029e8"
+    },
+    {
+      "$oid": "663b4922fa770000540029e9"
+    }
+  ],
+  "label": "QCM Suspension à Lame",
+  "type": "Factuel",
+  "speciality": "Suspension à Lame",
+  "level": "Senior",
+  "total": 12,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4922fa770000540029eb"
+  },
+  "questions": [
+    {
+      "$oid": "663b4922fa770000540029ea"
+    },
+    {
+      "$oid": "663b4922fa770000540029ec"
+    },
+    {
+      "$oid": "663b4922fa770000540029ed"
+    },
+    {
+      "$oid": "663b4922fa770000540029ee"
+    },
+    {
+      "$oid": "663b4922fa770000540029ef"
+    },
+    {
+      "$oid": "663b4922fa770000540029f0"
+    },
+    {
+      "$oid": "663b4922fa770000540029f1"
+    },
+    {
+      "$oid": "663b4922fa770000540029f2"
+    },
+    {
+      "$oid": "663b4922fa770000540029f3"
+    },
+    {
+      "$oid": "663b4922fa770000540029f4"
+    }
+  ],
+  "label": "QCM Suspension Ressort",
+  "type": "Factuel",
+  "speciality": "Suspension Ressort",
+  "level": "Senior",
+  "total": 10,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "663b4922fa770000540029f6"
+  },
+  "questions": [
+    {
+      "$oid": "663b4922fa770000540029f5"
+    },
+    {
+      "$oid": "663b4922fa770000540029f7"
+    },
+    {
+      "$oid": "663b4922fa770000540029f8"
+    },
+    {
+      "$oid": "663b4922fa770000540029f9"
+    },
+    {
+      "$oid": "663b4922fa770000540029fa"
+    },
+    {
+      "$oid": "663b4922fa770000540029fb"
+    },
+    {
+      "$oid": "663b4922fa770000540029fc"
+    }
+  ],
+  "label": "QCM Suspension Pneumatique",
+  "type": "Factuel",
+  "speciality": "Suspension Pneumatique",
+  "level": "Senior",
+  "total": 7,
+  "active": true,
+  "created": "08-05-24"
+},
+{
+  "_id": {
+    "$oid": "66864b1b402b000055001d27"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1b402b000055001d26"
+    },
+    {
+      "$oid": "66864b1b402b000055001d28"
+    },
+    {
+      "$oid": "66864b1b402b000055001d29"
+    },
+    {
+      "$oid": "66864b1b402b000055001d2a"
+    },
+    {
+      "$oid": "66864b1b402b000055001d2b"
+    },
+    {
+      "$oid": "66864b1b402b000055001d2c"
+    },
+    {
+      "$oid": "66864b1b402b000055001d2d"
+    },
+    {
+      "$oid": "66864b1b402b000055001d2e"
+    },
+    {
+      "$oid": "66864b1b402b000055001d2f"
+    },
+    {
+      "$oid": "66864b1b402b000055001d30"
+    },
+    {
+      "$oid": "66864b1b402b000055001d31"
+    },
+    {
+      "$oid": "66864b1b402b000055001d32"
+    },
+    {
+      "$oid": "66864b1b402b000055001d33"
+    },
+    {
+      "$oid": "66864b1b402b000055001d34"
+    }
+  ],
+  "label": "QCM Boite de Vitesse Automatique",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse Automatique",
+  "level": "Expert",
+  "total": 14,
+  "active": true,
+  "created": "04-07-24 07:11:23"
+},
+{
+  "_id": {
+    "$oid": "66864b1b402b000055001d36"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1b402b000055001d35"
+    },
+    {
+      "$oid": "66864b1b402b000055001d37"
+    },
+    {
+      "$oid": "66864b1c402b000055001d38"
+    },
+    {
+      "$oid": "66864b1c402b000055001d39"
+    }
+  ],
+  "label": "QCM Climatisation",
+  "type": "Factuel",
+  "speciality": "Climatisation",
+  "level": "Expert",
+  "total": 4,
+  "active": true,
+  "created": "04-07-24 07:11:23"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d3b"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d3a"
+    },
+    {
+      "$oid": "66864b1c402b000055001d3c"
+    },
+    {
+      "$oid": "66864b1c402b000055001d3d"
+    },
+    {
+      "$oid": "66864b1c402b000055001d3e"
+    }
+  ],
+  "label": "QCM Direction",
+  "type": "Factuel",
+  "speciality": "Direction",
+  "level": "Expert",
+  "total": 4,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d40"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d3f"
+    },
+    {
+      "$oid": "66864b1c402b000055001d41"
+    }
+  ],
+  "label": "QCM Electricité et Electronique",
+  "type": "Factuel",
+  "speciality": "Electricité et Electronique",
+  "level": "Expert",
+  "total": 2,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d43"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d42"
+    },
+    {
+      "$oid": "66864b1c402b000055001d44"
+    },
+    {
+      "$oid": "66864b1c402b000055001d45"
+    },
+    {
+      "$oid": "66864b1c402b000055001d46"
+    },
+    {
+      "$oid": "66864b1c402b000055001d47"
+    },
+    {
+      "$oid": "66864b1c402b000055001d48"
+    },
+    {
+      "$oid": "66864b1c402b000055001d49"
+    }
+  ],
+  "label": "QCM Freinage",
+  "type": "Factuel",
+  "speciality": "Freinage",
+  "level": "Expert",
+  "total": 7,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d4b"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d4a"
+    }
+  ],
+  "label": "QCM Boite de Vitesse Mécanique",
+  "type": "Factuel",
+  "speciality": "Boite de Vitesse Mécanique",
+  "level": "Expert",
+  "total": 1,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d4d"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d4c"
+    },
+    {
+      "$oid": "66864b1c402b000055001d4e"
+    },
+    {
+      "$oid": "66864b1c402b000055001d4f"
+    },
+    {
+      "$oid": "66864b1c402b000055001d50"
+    }
+  ],
+  "label": "QCM Hydraulique",
+  "type": "Factuel",
+  "speciality": "Hydraulique",
+  "level": "Expert",
+  "total": 4,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d52"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d51"
+    },
+    {
+      "$oid": "66864b1c402b000055001d53"
+    },
+    {
+      "$oid": "66864b1c402b000055001d54"
+    },
+    {
+      "$oid": "66864b1c402b000055001d55"
+    },
+    {
+      "$oid": "66864b1c402b000055001d56"
+    },
+    {
+      "$oid": "66864b1c402b000055001d57"
+    },
+    {
+      "$oid": "66864b1c402b000055001d58"
+    },
+    {
+      "$oid": "66864b1c402b000055001d59"
+    }
+  ],
+  "label": "QCM Moteur Electrique",
+  "type": "Factuel",
+  "speciality": "Moteur Electrique",
+  "level": "Expert",
+  "total": 8,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d5b"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d5a"
+    },
+    {
+      "$oid": "66864b1c402b000055001d5c"
+    },
+    {
+      "$oid": "66864b1c402b000055001d5d"
+    },
+    {
+      "$oid": "66864b1c402b000055001d5e"
+    },
+    {
+      "$oid": "66864b1c402b000055001d5f"
+    },
+    {
+      "$oid": "66864b1c402b000055001d60"
+    },
+    {
+      "$oid": "66864b1c402b000055001d61"
+    },
+    {
+      "$oid": "66864b1c402b000055001d62"
+    },
+    {
+      "$oid": "66864b1c402b000055001d63"
+    },
+    {
+      "$oid": "66864b1c402b000055001d64"
+    },
+    {
+      "$oid": "66864b1c402b000055001d65"
+    },
+    {
+      "$oid": "66864b1c402b000055001d66"
+    },
+    {
+      "$oid": "66864b1c402b000055001d67"
+    },
+    {
+      "$oid": "66864b1c402b000055001d68"
+    },
+    {
+      "$oid": "66864b1c402b000055001d69"
+    },
+    {
+      "$oid": "66864b1c402b000055001d6a"
+    },
+    {
+      "$oid": "66864b1c402b000055001d6b"
+    },
+    {
+      "$oid": "66864b1c402b000055001d6c"
+    }
+  ],
+  "label": "QCM Moteur Thermique",
+  "type": "Factuel",
+  "speciality": "Moteur Thermique",
+  "level": "Expert",
+  "total": 18,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d6e"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d6d"
+    },
+    {
+      "$oid": "66864b1c402b000055001d6f"
+    },
+    {
+      "$oid": "66864b1c402b000055001d70"
+    },
+    {
+      "$oid": "66864b1c402b000055001d71"
+    },
+    {
+      "$oid": "66864b1c402b000055001d72"
+    },
+    {
+      "$oid": "66d5c468d77b0000ca004be1"
+    }
+  ],
+  "label": "QCM Réseaux de Communication",
+  "type": "Factuel",
+  "speciality": "Réseaux de Communication",
+  "level": "Expert",
+  "total": 6,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d74"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d73"
+    }
+  ],
+  "label": "QCM Suspension",
+  "type": "Factuel",
+  "speciality": "Suspension",
+  "level": "Expert",
+  "total": 1,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b1c402b000055001d76"
+  },
+  "questions": [
+    {
+      "$oid": "66864b1c402b000055001d75"
+    },
+    {
+      "$oid": "66864b1c402b000055001d77"
+    },
+    {
+      "$oid": "66864b1c402b000055001d78"
+    },
+    {
+      "$oid": "66864b1c402b000055001d79"
+    },
+    {
+      "$oid": "66864b1c402b000055001d7a"
+    },
+    {
+      "$oid": "66864b1c402b000055001d7b"
+    },
+    {
+      "$oid": "66864b1c402b000055001d7c"
+    },
+    {
+      "$oid": "66864b1c402b000055001d7d"
+    }
+  ],
+  "label": "QCM Transversale",
+  "type": "Factuel",
+  "speciality": "Transversale",
+  "level": "Expert",
+  "total": 8,
+  "active": true,
+  "created": "04-07-24 07:11:24"
+},
+{
+  "_id": {
+    "$oid": "66864b27402b000055001d7f"
+  },
+  "questions": [
+    {
+      "$oid": "66864b27402b000055001d7e"
+    },
+    {
+      "$oid": "66864b27402b000055001d80"
+    },
+    {
+      "$oid": "66864b27402b000055001d81"
+    },
+    {
+      "$oid": "66864b27402b000055001d82"
+    },
+    {
+      "$oid": "66864b27402b000055001d83"
+    },
+    {
+      "$oid": "66864b27402b000055001d84"
+    },
+    {
+      "$oid": "66864b27402b000055001d85"
+    },
+    {
+      "$oid": "66864b27402b000055001d86"
+    },
+    {
+      "$oid": "66864b27402b000055001d87"
+    },
+    {
+      "$oid": "66864b27402b000055001d88"
+    },
+    {
+      "$oid": "66864b27402b000055001d89"
+    },
+    {
+      "$oid": "66864b28402b000055001d8a"
+    },
+    {
+      "$oid": "66864b28402b000055001d8b"
+    },
+    {
+      "$oid": "66864b28402b000055001d8c"
+    },
+    {
+      "$oid": "66864b28402b000055001d8d"
+    },
+    {
+      "$oid": "66864b28402b000055001d8e"
+    },
+    {
+      "$oid": "66864b28402b000055001d8f"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse Automatique",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse Automatique",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:35"
+},
+{
+  "_id": {
+    "$oid": "66864b28402b000055001d91"
+  },
+  "questions": [
+    {
+      "$oid": "66864b28402b000055001d90"
+    },
+    {
+      "$oid": "66864b28402b000055001d92"
+    },
+    {
+      "$oid": "66864b28402b000055001d93"
+    },
+    {
+      "$oid": "66864b28402b000055001d94"
+    },
+    {
+      "$oid": "66864b28402b000055001d95"
+    },
+    {
+      "$oid": "66864b28402b000055001d96"
+    },
+    {
+      "$oid": "66864b28402b000055001d97"
+    },
+    {
+      "$oid": "66864b28402b000055001d98"
+    },
+    {
+      "$oid": "66864b28402b000055001d99"
+    },
+    {
+      "$oid": "66864b28402b000055001d9a"
+    },
+    {
+      "$oid": "66864b28402b000055001d9b"
+    },
+    {
+      "$oid": "66864b28402b000055001d9c"
+    },
+    {
+      "$oid": "66864b28402b000055001d9d"
+    },
+    {
+      "$oid": "66864b28402b000055001d9e"
+    }
+  ],
+  "label": "Tâche Boite de Vitesse Mécanique",
+  "type": "Declaratif",
+  "speciality": "Boite de Vitesse Mécanique",
+  "level": "Expert",
+  "total": 14,
+  "active": true,
+  "created": "04-07-24 07:11:36"
+},
+{
+  "_id": {
+    "$oid": "66864b28402b000055001da0"
+  },
+  "questions": [
+    {
+      "$oid": "66864b28402b000055001d9f"
+    },
+    {
+      "$oid": "66864b28402b000055001da1"
+    },
+    {
+      "$oid": "66864b28402b000055001da2"
+    },
+    {
+      "$oid": "66864b28402b000055001da3"
+    },
+    {
+      "$oid": "66864b28402b000055001da4"
+    },
+    {
+      "$oid": "66864b28402b000055001da5"
+    },
+    {
+      "$oid": "66864b28402b000055001da6"
+    },
+    {
+      "$oid": "66864b28402b000055001da7"
+    },
+    {
+      "$oid": "66864b28402b000055001da8"
+    },
+    {
+      "$oid": "66864b28402b000055001da9"
+    },
+    {
+      "$oid": "66864b28402b000055001daa"
+    },
+    {
+      "$oid": "66864b28402b000055001dab"
+    },
+    {
+      "$oid": "66864b28402b000055001dac"
+    },
+    {
+      "$oid": "66864b28402b000055001dad"
+    },
+    {
+      "$oid": "66864b28402b000055001dae"
+    },
+    {
+      "$oid": "66864b28402b000055001daf"
+    },
+    {
+      "$oid": "66864b28402b000055001db0"
+    }
+  ],
+  "label": "Tâche Climatisation",
+  "type": "Declaratif",
+  "speciality": "Climatisation",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:36"
+},
+{
+  "_id": {
+    "$oid": "66864b28402b000055001db2"
+  },
+  "questions": [
+    {
+      "$oid": "66864b28402b000055001db1"
+    },
+    {
+      "$oid": "66864b28402b000055001db3"
+    },
+    {
+      "$oid": "66864b28402b000055001db4"
+    },
+    {
+      "$oid": "66864b28402b000055001db5"
+    },
+    {
+      "$oid": "66864b28402b000055001db6"
+    },
+    {
+      "$oid": "66864b28402b000055001db7"
+    },
+    {
+      "$oid": "66864b28402b000055001db8"
+    },
+    {
+      "$oid": "66864b28402b000055001db9"
+    },
+    {
+      "$oid": "66864b28402b000055001dba"
+    },
+    {
+      "$oid": "66864b28402b000055001dbb"
+    },
+    {
+      "$oid": "66864b28402b000055001dbc"
+    },
+    {
+      "$oid": "66864b28402b000055001dbd"
+    },
+    {
+      "$oid": "66864b28402b000055001dbe"
+    },
+    {
+      "$oid": "66864b28402b000055001dbf"
+    },
+    {
+      "$oid": "66864b28402b000055001dc0"
+    },
+    {
+      "$oid": "66864b28402b000055001dc1"
+    },
+    {
+      "$oid": "66864b28402b000055001dc2"
+    }
+  ],
+  "label": "Tâche Direction",
+  "type": "Declaratif",
+  "speciality": "Direction",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:36"
+},
+{
+  "_id": {
+    "$oid": "66864b28402b000055001dc4"
+  },
+  "questions": [
+    {
+      "$oid": "66864b28402b000055001dc3"
+    },
+    {
+      "$oid": "66864b28402b000055001dc5"
+    },
+    {
+      "$oid": "66864b28402b000055001dc6"
+    },
+    {
+      "$oid": "66864b28402b000055001dc7"
+    },
+    {
+      "$oid": "66864b28402b000055001dc8"
+    },
+    {
+      "$oid": "66864b28402b000055001dc9"
+    },
+    {
+      "$oid": "66864b28402b000055001dca"
+    },
+    {
+      "$oid": "66864b28402b000055001dcb"
+    },
+    {
+      "$oid": "66864b28402b000055001dcc"
+    },
+    {
+      "$oid": "66864b28402b000055001dcd"
+    },
+    {
+      "$oid": "66864b28402b000055001dce"
+    },
+    {
+      "$oid": "66864b28402b000055001dcf"
+    },
+    {
+      "$oid": "66864b28402b000055001dd0"
+    },
+    {
+      "$oid": "66864b28402b000055001dd1"
+    },
+    {
+      "$oid": "66864b28402b000055001dd2"
+    },
+    {
+      "$oid": "66864b28402b000055001dd3"
+    },
+    {
+      "$oid": "66864b28402b000055001dd4"
+    }
+  ],
+  "label": "Tâche Suspension",
+  "type": "Declaratif",
+  "speciality": "Suspension",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:36"
+},
+{
+  "_id": {
+    "$oid": "66864b28402b000055001dd6"
+  },
+  "questions": [
+    {
+      "$oid": "66864b28402b000055001dd5"
+    },
+    {
+      "$oid": "66864b28402b000055001dd7"
+    },
+    {
+      "$oid": "66864b28402b000055001dd8"
+    },
+    {
+      "$oid": "66864b28402b000055001dd9"
+    },
+    {
+      "$oid": "66864b28402b000055001dda"
+    },
+    {
+      "$oid": "66864b28402b000055001ddb"
+    },
+    {
+      "$oid": "66864b28402b000055001ddc"
+    },
+    {
+      "$oid": "66864b28402b000055001ddd"
+    },
+    {
+      "$oid": "66864b28402b000055001dde"
+    },
+    {
+      "$oid": "66864b28402b000055001ddf"
+    },
+    {
+      "$oid": "66864b29402b000055001de0"
+    },
+    {
+      "$oid": "66864b29402b000055001de1"
+    },
+    {
+      "$oid": "66864b29402b000055001de2"
+    },
+    {
+      "$oid": "66864b29402b000055001de3"
+    },
+    {
+      "$oid": "66864b29402b000055001de4"
+    },
+    {
+      "$oid": "66864b29402b000055001de5"
+    },
+    {
+      "$oid": "66864b29402b000055001de6"
+    }
+  ],
+  "label": "Tâche Moteur Thermique",
+  "type": "Declaratif",
+  "speciality": "Moteur Thermique",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:36"
+},
+{
+  "_id": {
+    "$oid": "66864b29402b000055001de8"
+  },
+  "questions": [
+    {
+      "$oid": "66864b29402b000055001de7"
+    },
+    {
+      "$oid": "66864b29402b000055001de9"
+    },
+    {
+      "$oid": "66864b29402b000055001dea"
+    },
+    {
+      "$oid": "66864b29402b000055001deb"
+    },
+    {
+      "$oid": "66864b29402b000055001dec"
+    },
+    {
+      "$oid": "66864b29402b000055001ded"
+    },
+    {
+      "$oid": "66864b29402b000055001dee"
+    },
+    {
+      "$oid": "66864b29402b000055001def"
+    },
+    {
+      "$oid": "66864b29402b000055001df0"
+    },
+    {
+      "$oid": "66864b29402b000055001df1"
+    },
+    {
+      "$oid": "66864b29402b000055001df2"
+    },
+    {
+      "$oid": "66864b29402b000055001df3"
+    },
+    {
+      "$oid": "66864b29402b000055001df4"
+    },
+    {
+      "$oid": "66864b29402b000055001df5"
+    },
+    {
+      "$oid": "66864b29402b000055001df6"
+    },
+    {
+      "$oid": "66864b29402b000055001df7"
+    },
+    {
+      "$oid": "66864b29402b000055001df8"
+    }
+  ],
+  "label": "Tâche Moteur Electrique",
+  "type": "Declaratif",
+  "speciality": "Moteur Electrique",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:37"
+},
+{
+  "_id": {
+    "$oid": "66864b29402b000055001dfa"
+  },
+  "questions": [
+    {
+      "$oid": "66864b29402b000055001df9"
+    },
+    {
+      "$oid": "66864b29402b000055001dfb"
+    },
+    {
+      "$oid": "66864b29402b000055001dfc"
+    },
+    {
+      "$oid": "66864b29402b000055001dfd"
+    },
+    {
+      "$oid": "66864b29402b000055001dfe"
+    },
+    {
+      "$oid": "66864b29402b000055001dff"
+    },
+    {
+      "$oid": "66864b29402b000055001e00"
+    },
+    {
+      "$oid": "66864b29402b000055001e01"
+    },
+    {
+      "$oid": "66864b29402b000055001e02"
+    },
+    {
+      "$oid": "66864b29402b000055001e03"
+    },
+    {
+      "$oid": "66864b29402b000055001e04"
+    },
+    {
+      "$oid": "66864b29402b000055001e05"
+    },
+    {
+      "$oid": "66864b29402b000055001e06"
+    },
+    {
+      "$oid": "66864b29402b000055001e07"
+    },
+    {
+      "$oid": "66864b29402b000055001e08"
+    },
+    {
+      "$oid": "66864b29402b000055001e09"
+    },
+    {
+      "$oid": "66864b29402b000055001e0a"
+    }
+  ],
+  "label": "Tâche Hydraulique",
+  "type": "Declaratif",
+  "speciality": "Hydraulique",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:37"
+},
+{
+  "_id": {
+    "$oid": "66864b29402b000055001e0c"
+  },
+  "questions": [
+    {
+      "$oid": "66864b29402b000055001e0b"
+    },
+    {
+      "$oid": "66864b29402b000055001e0d"
+    },
+    {
+      "$oid": "66864b29402b000055001e0e"
+    },
+    {
+      "$oid": "66864b29402b000055001e0f"
+    },
+    {
+      "$oid": "66864b29402b000055001e10"
+    },
+    {
+      "$oid": "66864b29402b000055001e11"
+    },
+    {
+      "$oid": "66864b29402b000055001e12"
+    },
+    {
+      "$oid": "66864b29402b000055001e13"
+    },
+    {
+      "$oid": "66864b29402b000055001e14"
+    },
+    {
+      "$oid": "66864b29402b000055001e15"
+    },
+    {
+      "$oid": "66864b29402b000055001e16"
+    },
+    {
+      "$oid": "66864b29402b000055001e17"
+    },
+    {
+      "$oid": "66864b29402b000055001e18"
+    },
+    {
+      "$oid": "66864b29402b000055001e19"
+    },
+    {
+      "$oid": "66864b29402b000055001e1a"
+    },
+    {
+      "$oid": "66864b29402b000055001e1b"
+    },
+    {
+      "$oid": "66864b29402b000055001e1c"
+    }
+  ],
+  "label": "Tâche Freinage",
+  "type": "Declaratif",
+  "speciality": "Freinage",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:37"
+},
+{
+  "_id": {
+    "$oid": "66864b29402b000055001e1e"
+  },
+  "questions": [
+    {
+      "$oid": "66864b29402b000055001e1d"
+    },
+    {
+      "$oid": "66864b29402b000055001e1f"
+    },
+    {
+      "$oid": "66864b29402b000055001e20"
+    },
+    {
+      "$oid": "66864b29402b000055001e21"
+    },
+    {
+      "$oid": "66864b29402b000055001e22"
+    },
+    {
+      "$oid": "66864b29402b000055001e23"
+    },
+    {
+      "$oid": "66864b29402b000055001e24"
+    },
+    {
+      "$oid": "66864b29402b000055001e25"
+    },
+    {
+      "$oid": "66864b29402b000055001e26"
+    },
+    {
+      "$oid": "66864b29402b000055001e27"
+    },
+    {
+      "$oid": "66864b29402b000055001e28"
+    },
+    {
+      "$oid": "66864b29402b000055001e29"
+    },
+    {
+      "$oid": "66864b29402b000055001e2a"
+    },
+    {
+      "$oid": "66864b29402b000055001e2b"
+    },
+    {
+      "$oid": "66864b29402b000055001e2c"
+    },
+    {
+      "$oid": "66864b29402b000055001e2d"
+    },
+    {
+      "$oid": "66864b29402b000055001e2e"
+    }
+  ],
+  "label": "Tâche Réseaux de Communication",
+  "type": "Declaratif",
+  "speciality": "Réseaux de Communication",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:37"
+},
+{
+  "_id": {
+    "$oid": "66864b29402b000055001e30"
+  },
+  "questions": [
+    {
+      "$oid": "66864b29402b000055001e2f"
+    },
+    {
+      "$oid": "66864b29402b000055001e31"
+    },
+    {
+      "$oid": "66864b29402b000055001e32"
+    },
+    {
+      "$oid": "66864b29402b000055001e33"
+    },
+    {
+      "$oid": "66864b29402b000055001e34"
+    },
+    {
+      "$oid": "66864b29402b000055001e35"
+    },
+    {
+      "$oid": "66864b29402b000055001e36"
+    },
+    {
+      "$oid": "66864b29402b000055001e37"
+    },
+    {
+      "$oid": "66864b29402b000055001e38"
+    },
+    {
+      "$oid": "66864b29402b000055001e39"
+    },
+    {
+      "$oid": "66864b2a402b000055001e3a"
+    },
+    {
+      "$oid": "66864b2a402b000055001e3b"
+    },
+    {
+      "$oid": "66864b2a402b000055001e3c"
+    },
+    {
+      "$oid": "66864b2a402b000055001e3d"
+    },
+    {
+      "$oid": "66864b2a402b000055001e3e"
+    },
+    {
+      "$oid": "66864b2a402b000055001e3f"
+    },
+    {
+      "$oid": "66864b2a402b000055001e40"
+    }
+  ],
+  "label": "Tâche Electricité et Electronique",
+  "type": "Declaratif",
+  "speciality": "Electricité et Electronique",
+  "level": "Expert",
+  "total": 17,
+  "active": true,
+  "created": "04-07-24 07:11:37"
+}]
